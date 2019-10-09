@@ -1,0 +1,2 @@
+# CodeOfEthics
+Yazılım Mühendisliği
